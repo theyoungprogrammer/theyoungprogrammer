@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theyoungprogrammer
 - 👀 I’m interested in AI/ML/BigData
-- 🌱 I’m know Python,C++, Data Strutures and algorithms
+- 🌱 I know Python,C++, Data Strutures and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gowrish.holycross@gmail.com
 
